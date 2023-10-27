@@ -21,12 +21,6 @@
 ✳️ With the use of cutting-edge analytics, we empower the care experiences of the general public and healthcare organizations by offering digital health and healthcare solutions
 
 ## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=sharing)
-
+<img src="https://drive.google.com/file/d/1qPIlFftluLbZ27cIXi5WonUogrqGucyL/view?usp=drive_link"/>
 
 
