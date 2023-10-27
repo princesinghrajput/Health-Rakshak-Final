@@ -16,10 +16,5 @@
 
 
 
-✳️ Using cutting-edge deep learning and machine learning technologies, we can assign you a virtual health consultant.
-
-✳️ With the use of cutting-edge analytics, we empower the care experiences of the general public and healthcare organizations by offering digital health and healthcare solutions
-
-
 
 
